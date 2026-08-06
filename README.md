@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
