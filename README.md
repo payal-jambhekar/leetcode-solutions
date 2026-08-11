@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
