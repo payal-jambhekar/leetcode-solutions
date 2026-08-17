@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2029-stone-game-ix](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
