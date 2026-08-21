@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0227-basic-calculator-ii) |
 | [0901-online-stock-span](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0901-online-stock-span) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0227-basic-calculator-ii) |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1563-stone-game-v) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0227-basic-calculator-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
