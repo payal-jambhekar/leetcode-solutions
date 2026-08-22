@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0224-basic-calculator) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
@@ -83,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1563-stone-game-v) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1386-cinema-seat-allocation) |
