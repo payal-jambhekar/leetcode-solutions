@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
 | [0735-asteroid-collision](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1386-cinema-seat-allocation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1386-cinema-seat-allocation) |
