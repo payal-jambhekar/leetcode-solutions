@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
+| [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Rolling Hash
 |  |
