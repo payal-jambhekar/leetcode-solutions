@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0933-number-of-recent-calls) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -324,4 +327,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
