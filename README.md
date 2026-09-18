@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2029-stone-game-ix) |
+| [2614-prime-in-diagonal](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2614-prime-in-diagonal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2614-prime-in-diagonal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2614-prime-in-diagonal](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2614-prime-in-diagonal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
