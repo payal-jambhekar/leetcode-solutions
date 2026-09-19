@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0866-prime-palindrome) |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1510-stone-game-iv](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1872-stone-game-viii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Rolling Hash
 |  |
