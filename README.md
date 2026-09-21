@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0224-basic-calculator) |
 | [3483-unique-3-digit-even-numbers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Pigeonhole Principle
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
