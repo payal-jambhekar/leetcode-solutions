@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0224-basic-calculator) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0389-find-the-difference) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
