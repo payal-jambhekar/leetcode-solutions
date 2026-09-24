@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1927-sum-game) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2073-time-needed-to-buy-tickets](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3498-reverse-degree-of-a-string) |
