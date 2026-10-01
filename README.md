@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0187-repeated-dna-sequences) |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
