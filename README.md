@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -419,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
