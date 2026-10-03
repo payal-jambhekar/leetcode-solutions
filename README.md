@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0836-rectangle-overlap) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Pigeonhole Principle
 |  |
