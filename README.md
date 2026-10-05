@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0856-score-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
