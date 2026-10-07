@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0856-score-of-parentheses) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Pigeonhole Principle
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
