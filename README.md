@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
+| [0575-distribute-candies](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
+| [0575-distribute-candies](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1386-cinema-seat-allocation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
