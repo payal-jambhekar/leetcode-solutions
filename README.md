@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
