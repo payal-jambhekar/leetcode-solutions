@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
