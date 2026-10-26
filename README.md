@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0204-count-primes) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -526,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
