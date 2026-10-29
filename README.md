@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0735-asteroid-collision) |
+| [0890-find-and-replace-pattern](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1386-cinema-seat-allocation) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0890-find-and-replace-pattern) |
 | [0970-powerful-integers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0970-powerful-integers) |
 | [1386-cinema-seat-allocation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
