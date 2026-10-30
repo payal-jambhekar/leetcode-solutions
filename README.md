@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0239-sliding-window-maximum) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -541,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
