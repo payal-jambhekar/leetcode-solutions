@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Array
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2614-prime-in-diagonal) |
+| [3665-twisted-mirror-path-count](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Primality Test
 |  |
 | ------- |
