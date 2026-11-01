@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2029-stone-game-ix) |
+| [2119-a-number-after-a-double-reversal](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2409-count-days-spent-together](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/2614-prime-in-diagonal) |
