@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0728-self-dividing-numbers) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -579,5 +581,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0279-perfect-squares) |
 | [1267-count-servers-that-communicate](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/1267-count-servers-that-communicate) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
