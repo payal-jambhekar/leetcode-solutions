@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0227-basic-calculator-ii) |
 | [0389-find-the-difference](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0409-longest-palindrome) |
+| [0551-student-attendance-record-i](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0796-rotate-string) |
