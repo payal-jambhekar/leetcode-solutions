@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0202-happy-number) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/payal-jambhekar/leetcode---solutions/tree/master/0268-missing-number) |
